@@ -1,0 +1,10 @@
+[project]
+name = "interviewpilot-ai"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.31.0",
+    "langchain>=1.4.9",
+    "langchain-openai>=1.7.4",
+    "python-dotenv>=1.2.4",
+]
