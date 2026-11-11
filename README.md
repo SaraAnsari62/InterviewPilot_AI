@@ -32,7 +32,7 @@ The application uses a LangChain prompt pipeline to structure user input, send r
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone git@github.com:SaraAnsari62/InterviewPilot_AI.git
 cd InterviewPilot_AI
 ```
 
